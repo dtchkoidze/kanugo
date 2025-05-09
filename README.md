@@ -2,8 +2,6 @@
 
 A Terminal-based Kanban board application built with Go, using the Charm Bubble Tea framework and PostgreSQL for persistent task storage.
 
-![Go Kanban Screenshot](https://via.placeholder.com/800x400?text=Go+Kanban+Screenshot)
-
 ## Features
 
 - Interactive terminal UI using [Bubble Tea](https://github.com/charmbracelet/bubbletea)
