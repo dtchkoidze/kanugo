@@ -23,7 +23,7 @@ A Terminal-based Kanban board application built with Go, using the Charm Bubble 
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/yourusername/go-kanban.git
+git clone https://github.com/dtchkoidze/kanugo.git
 cd go-kanban
 ```
 
@@ -118,14 +118,11 @@ To build the application:
 go build -o kanban
 ```
 
+Or to build && run:
+```bash
+go run .
+```
+
 ## License
 
 MIT
-
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add some amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
